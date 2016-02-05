@@ -1,6 +1,0 @@
-include 'jpos',
-        'qnode',
-        'compat_1_5_2'
-
-rootProject.name = 'jpos'
-
