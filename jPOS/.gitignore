@@ -1,0 +1,18 @@
+target
+*.swp
+.DS_Store
+# IDEA Ignores
+*.iml
+*.ipr
+*.iws
+.idea
+out/
+# Eclipse Ignores
+.classpath
+.settings
+.project
+# Gradle Ignores
+.gradle
+build
+.nb-gradle
+
